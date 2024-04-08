@@ -48,5 +48,5 @@ def predict_eye_condition():
     return jsonify({'predicted_condition': condition})
 
 # Run the Flask app
-if __name__ == '__main__':
-    app.run(debug=True)
+#if __name__ == '__main__':
+ #   app.run(debug=True)
